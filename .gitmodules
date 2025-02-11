@@ -1,0 +1,3 @@
+[submodule "services/drudle-ui-service"]
+	path = services/drudle-ui-service
+	url = https://github.com/Belgert/drudle-ui-service.git
